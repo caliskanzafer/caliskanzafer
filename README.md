@@ -1,17 +1,15 @@
-### Hi there 👋
+![banner](banner.png)
 
-<!--
-**caliskanzafer/caliskanzafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[banner.png]
+## I'm a Student and a Web Developer!
 
-Here are some ideas to get you started:
+◾ 💻 Currently learning [Dart](https://dart.dev/)&[Flutter](https://flutter.dev/).
+</br>
+◾ ✍️ Writing tech blog posts over at [medium](https://caliskanzafer.medium.com)
+</br>
+◾ 🥅 2021 Goals: Being Fluent in Flutter.
+</br>
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align="left" width="35px" src="email.svg" />
+<img align="left" width="35px" src="linkedin.svg" />
