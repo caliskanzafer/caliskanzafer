@@ -9,9 +9,6 @@
 ◾ 🥅 2021 Goals: Being Fluent in Flutter.
 <br>
 
-## 💳 Language Card
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caliskanzafer&&layout=compact" />
-
 ### Connect with me:
 
 <a href="mailto:caliskan.zafer@outlook.com"><img width="35px" src="email.svg" ></a>
