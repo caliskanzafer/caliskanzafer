@@ -9,7 +9,3 @@
 ◾ 🥅 2021 Goals: Being Fluent in Flutter.
 </br>
 ### Connect with me:
-
-
-<img align="left" width="35px" src="email.svg" />
-<img align="left" width="35px" src="linkedin.svg" />
