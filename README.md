@@ -4,7 +4,7 @@
 
 ◾ 💻 Currently learning [Dart](https://dart.dev/)&[Flutter](https://flutter.dev/).
 <br>
-◾ ✍️ Writing tech blog posts over at [medium](https://caliskanzafer.medium.com)
+◾ ✍️ Writing tech blog posts over at [Medium](https://caliskanzafer.medium.com)
 <br>
 ◾ 🥅 2021 Goals: Being Fluent in Flutter.
 <br>
