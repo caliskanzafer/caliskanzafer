@@ -9,3 +9,6 @@
 ◾ 🥅 2021 Goals: Being Fluent in Flutter.
 </br>
 ### Connect with me:
+
+<a href="mailto:caliskan.zafer@outlook.com"><img width="35px" src="email.svg" ></a>
+<a href="https://www.linkedin.com/in/caliskanzafer/"><img width="35px" src="linkedin.svg" ></a>
