@@ -11,6 +11,6 @@
 
 ### Connect with me:
 
-<a href="mailto:caliskan.zafer@outlook.com"><img width="35px" src="email.svg" ></a>
+<a href="https://twitter.com/zfrclskn_"><img width="35px" src="twitter.svg" ></a>
 <a href="https://www.linkedin.com/in/caliskanzafer/"><img width="35px" src="linkedin.svg" ></a>
-
+<a href="mailto:caliskan.zafer@outlook.com"><img width="35px" src="email.svg" ></a>
