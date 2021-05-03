@@ -1,6 +1,6 @@
 ![banner](banner.png)
 
-## I'm a Student and a Web Developer!
+## I'm a Student and a Mobile Application Developer!
 
 ◾ 💻 Currently learning [Dart](https://dart.dev/)&[Flutter](https://flutter.dev/).
 <br>
