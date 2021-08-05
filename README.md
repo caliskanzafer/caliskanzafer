@@ -13,3 +13,5 @@
 <a href="https://twitter.com/zfrclskn_"><img width="35px" src="twitterC.svg" ></a>
 <a href="https://www.linkedin.com/in/caliskanzafer/"><img width="35px" src="linkedin.svg" ></a>
 <a href="mailto:caliskan.zafer@outlook.com"><img width="35px" src="email.svg" ></a>
+
+https://profile-counter.glitch.me/{caliskanzafer}/count.svg
