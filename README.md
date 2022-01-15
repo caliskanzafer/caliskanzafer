@@ -2,11 +2,9 @@
 
 ## I'm a Student and a Mobile Application Developer!
 
-◾ 💻 Currently learning [Dart](https://dart.dev/)&[Flutter](https://flutter.dev/).
+◾ 💻 Currently learning [Dart](https://dart.dev/)&[Flutter](https://flutter.dev/)&[Go](https://go.dev/).
 <br>
-◾ ✍️ Writing tech blog posts over at [Medium](https://caliskanzafer.medium.com)
-<br>
-◾ 🥅 2021 Goals: Being Fluent in Flutter.
+◾ 🥅 2022 Goals: Being Fluent in Flutter and Go .
 <br>
 
 ### Connect with me:
