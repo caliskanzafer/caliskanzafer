@@ -2,7 +2,7 @@
 
 ## I'm a Student and a Mobile Application Developer!
 
-◾ 💻 Currently learning [Dart](https://dart.dev/)&[Flutter](https://flutter.dev/)&[Go](https://go.dev/).
+◾ 💻 Currently learning [Flutter](https://flutter.dev/)&[Go](https://go.dev/)&[Swift](https://www.apple.com/tr/swift/).
 <br>
 ◾ 🥅 2022 Goals: Being Fluent in Flutter and Go .
 <br>
