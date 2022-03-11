@@ -4,8 +4,11 @@
 
 ◾ 💻 Currently learning [Flutter](https://flutter.dev/)&[Go](https://go.dev/)&[Swift](https://www.apple.com/tr/swift/).
 <br>
-◾ 🥅 2022 Goals: Being Fluent in Flutter and Go .
-<br>
+🥅 2022 Goals: 
+<br>◾ Being Fluent in Flutter and Go .
+<br>◾ Publish atlest 3 apps in stores .
+
+There are more project repositories. But its private :)
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/caliskanzafer/"><img width="35px" src="linkedin.svg" ></a>
