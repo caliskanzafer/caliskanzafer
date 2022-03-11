@@ -2,9 +2,9 @@
 
 ## I'm a full time Mobile Application Developer and part time a Student!
 
-💻 Currently learning [Flutter](https://flutter.dev/)&[Go](https://go.dev/)&[Swift](https://www.apple.com/tr/swift/).
+💻 Currently working with [Flutter](https://flutter.dev/)&[Go](https://go.dev/)&[Swift](https://www.apple.com/tr/swift/).
 <br>
-🥅 2022 Goals: 
+2022 Goals: 
 <br>◾ Being Fluent in Flutter and Go .
 <br>◾ Publish atlest 3 apps in stores .
 
