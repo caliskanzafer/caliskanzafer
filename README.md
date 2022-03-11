@@ -1,6 +1,6 @@
 ![banner](banner.png)
 
-## I'm a Student and a Mobile Application Developer!
+## I'm a full time Mobile Application Developer and part time a Student!
 
 💻 Currently learning [Flutter](https://flutter.dev/)&[Go](https://go.dev/)&[Swift](https://www.apple.com/tr/swift/).
 <br>
