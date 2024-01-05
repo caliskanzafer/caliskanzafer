@@ -1,6 +1,6 @@
 ![banner](banner.png)
 
-## I'm a full time Mobile Application Developer and part time a Student!
+## I'm a full time iOS Developer!
 
 💻 Currently working with [Swift](https://www.apple.com/tr/swift/).
 
